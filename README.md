@@ -1,4 +1,5 @@
 Ok I was looking around for differnt methods for programming microcontrolllers. I saw that some off the new arduinos were basied on mbed-os. I happen to have a couple of AZ3166 were also based on mbed-os but for Asure only. Ok, this is what I well use to learn mbed-os.
+
 Method 1:
 1. Download the Microsoft IoT DevKit Software
 2. Removed the Asure and Telementry parts
