@@ -2,7 +2,7 @@ Ok I was looking around for differnt methods for programming microcontrolllers. 
 
 Method 1:
 1. Download the Microsoft IoT DevKit Software
-2. Removed the Asure and Telementry parts
+2. Removed the Azure and Telementry parts
 3. used mbed cli to compile most of the examples
      a. These were all arduino compatible example
      
