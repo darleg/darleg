@@ -1,4 +1,4 @@
-Ok I was looking around for differnt methods for programming microcontrolllers. I saw that some off the new arduinos were basied on mbed-os. I happen to have a couple of AZ3166 were also based on mbed-os but for Azure only. Ok, this is what I an going to learn mbed-os with.
+Ok I was looking around for differnt methods for programming microcontrolllers. I saw that some off the new arduinos were basied on mbed-os. I happen to have a couple of AZ3166 were also based on mbed-os but for Azure only. Ok, this is what I an going to learn mbed-os with. Once I get the hang of it I am not going to be using Method 1 or 2. Just updated version of mbed-os.
 
 
 
