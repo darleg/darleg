@@ -1,5 +1,4 @@
-Ok I was looking around for differnt methods for programming microcontrolllers. I saw that some off the new arduinos were basied on mbed-os. I happen to have a couple of AZ3166 were also based on mbed-os but for Azure only. Ok, this is what I an going to learn mbed-os with. Once I get the hang of it I am not going to be using Method 1 or 2. Just updated version of mbed-os.
+Ok I was looking around for differnt methods for programming microcontrolllers. I saw that some off the new arduinos were basied on mbed-os. I happen to have a couple of AZ3166 were also based on mbed-os but for Azure only. Ok, this is what I an going to learn mbed-os with. Once I get the hang of it I will just use updated version of mbed-os.
 
-Method 1 and 2 have been removed.
 
-Method 3,4, and 5 are all about pin or port renaming and use the up to date mbed-os from ARMmbed/mbed-os. Method 3 Used the PinName function with the online compiler and mbed cli on mbed os 5. Check out the rgbled.h Method 4 just edit the PinName.h in the target area. This way you can use the standord mbed system names. The last metod I used is just a simple #define statement for C/C++. Exsample file OnBoard.h.
+I am using 6.9 mbed-os with Visual mbed IDE. Also using the PinName function. I am using just a simple #define statement for C/C++. Exsample file OnBoard.h.
