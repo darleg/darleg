@@ -4,7 +4,7 @@ So, I started learning electronics during seventh grade. By 9th grade I had adva
 
 It was clear to me at that time that I wanted to go into Computer Science. The problem for me was I wanted to learn both hardware and software. At this time and point hardware (Electronics Engineer) and software theory (Computer Science) were two different careers. Things got better as time went by, so I just keep on plugging away.
 
-I have been retired for lots of years and I steel like combine math, technology, and physics which can lead to some fascinating and groundbreaking innovations. Here are a few areas where these fields intersect:
+I have been retired for lots of years and I steel like to combine math, technology, and physics which can lead to some fascinating and groundbreaking innovations. Here are a few areas where these fields intersect:
 
 1. Quantum Computing: This advanced field leverages quantum mechanics to process information at unprecedented speeds. It's a perfect blend of math (algorithms and cryptography), tech (quantum computers), and physics (quantum mechanics).
 
