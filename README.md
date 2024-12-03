@@ -6,10 +6,10 @@ It was clear to me at that time that I wanted to go into Computer Science. The p
 
 I have been retired for lots of years and I steel like combine math, technology, and physics which can lead to some fascinating and groundbreaking innovations. Here are a few areas where these fields intersect:
 
-Quantum Computing: This advanced field leverages quantum mechanics to process information at unprecedented speeds. It's a perfect blend of math (algorithms and cryptography), tech (quantum computers), and physics (quantum mechanics).
+1. Quantum Computing: This advanced field leverages quantum mechanics to process information at unprecedented speeds. It's a perfect blend of math (algorithms and cryptography), tech (quantum computers), and physics (quantum mechanics).
 
-Artificial Intelligence and Machine Learning: These technologies rely heavily on mathematical concepts like linear algebra, calculus, and statistics. They also use physics for modeling and simulations, particularly in fields like robotics and autonomous vehicles.
+2. Artificial Intelligence and Machine Learning: These technologies rely heavily on mathematical concepts like linear algebra, calculus, and statistics. They also use physics for modeling and simulations, particularly in fields like robotics and autonomous vehicles.
 
-Material Science and Nanotechnology: The study of materials at the nanoscale involves complex physics principles and advanced technology for manipulating matter at the atomic level. Math is essential for modeling and predicting material behavior.
+3. Material Science and Nanotechnology: The study of materials at the nanoscale involves complex physics principles and advanced technology for manipulating matter at the atomic level. Math is essential for modeling and predicting material behavior.
 
-Astrophysics and Cosmology: Exploring the universe requires a deep understanding of physics and advanced technology like telescopes and satellites. Math is crucial for making sense of the vast amounts of data collected from space.
+4. Astrophysics and Cosmology: Exploring the universe requires a deep understanding of physics and advanced technology like telescopes and satellites. Math is crucial for making sense of the vast amounts of data collected from space.
