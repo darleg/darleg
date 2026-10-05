@@ -16,4 +16,4 @@ I have been retired for lots of years, but even now I like combining math, techn
 
 5. Bioinformatics and Computational Biology: These fields use mathematical models and algorithms to analyze biological data. Technology plays a key role in data collection and analysis, and physics principles are often applied in understanding biological processes.
 
-6. Renewable Energy: Developing sustainable energy solutions like solar panels, wind turbines and fuel cells involves physics (understanding energy transfer), technology (innovative designs and materials), and math (optimizing efficiency).gg
+6. Renewable Energy: Developing sustainable energy solutions like solar panels, wind turbines and fuel cells involves physics (understanding energy transfer), technology (innovative designs and materials), and math (optimizing efficiency).
